@@ -24,7 +24,7 @@ const HomePage = () => {
             style={{ fontFamily: "Duplet", fontWeight: 400 }}
           >
             <span className="bg-gradient-to-r from-[#1E3A8A] via-[#0066CC] to-[#003366] text-transparent bg-clip-text">
-              I'm Tirupti Godbole
+              I'm Trupti Godbole
             </span>
           </h1>
 
